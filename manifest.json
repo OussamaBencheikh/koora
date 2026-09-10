@@ -1,0 +1,19 @@
+{
+  "manifest_version": 3,
+  "name": "Neon Serpent",
+  "short_name": "Serpent",
+  "description": "A focused neon snake arcade game for quick reflex runs.",
+  "version": "1.0.0",
+  "action": {
+    "default_title": "Play Neon Serpent",
+    "default_popup": "index.html"
+  },
+  "homepage_url": "https://oussambencheikh.github.io/koora/",
+  "icons": {
+    "16": "icon-16.png",
+    "32": "icon-32.png",
+    "48": "icon-48.png",
+    "128": "icon-128.png"
+  },
+  "permissions": []
+}
