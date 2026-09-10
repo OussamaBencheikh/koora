@@ -13,7 +13,7 @@ Neon Serpent is a polished, self-contained Snake game that runs in the browser a
 3. Choose **Load unpacked**.
 4. Select this repository folder.
 
-The extension has no external runtime dependencies or permissions. The Google Fonts import improves the visual presentation online; the game remains functional without it.
+The extension has no external runtime dependencies, remote code, or permissions. All game logic and styling are included in the package.
 
 ## Publish to the Chrome Web Store
 
